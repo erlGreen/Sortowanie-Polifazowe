@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sortowanie Polifazowe", "Sortowanie Polifazowe\Sortowanie Polifazowe.csproj", "{C379AC85-A082-4349-B61A-09C245B1E5F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C379AC85-A082-4349-B61A-09C245B1E5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C379AC85-A082-4349-B61A-09C245B1E5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C379AC85-A082-4349-B61A-09C245B1E5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C379AC85-A082-4349-B61A-09C245B1E5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA79896F-8B44-44A6-B2F1-E8511D98B552}
+	EndGlobalSection
+EndGlobal
